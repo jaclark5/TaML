@@ -34,6 +34,12 @@ Install dependencies
 python3 -m pip install -r requirements.txt
 ```
 
+Install package
+
+```bash
+python3 setup.py
+```
+
 ## Notebooks
 
 Included notebooks include `DataVisualization` for visualizing the input data used for machine learning, `MethodComparison_GPR_HeteroscedasticNoise` for comparing different methods for incorporating theory into machine learning using Gaussian Process Regression with heteroscedastic noise, `MethodComparison_GPR_HomoscedasticNoise` for comparing different methods for incorporating theory into machine learning using Gaussian Process Regression with homoscedastic noise, and `ViewResults` for plotting the relative performance of different methods for incorporating theory into machine learning for three different machine learning models.
