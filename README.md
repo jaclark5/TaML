@@ -7,6 +7,7 @@ This code is provided to supplement a manuscript to be published. For those wish
 ## Running the code
 
 All code is written in Python and can be used on any operating system.
+Here we use pipenv but the following steps can also be achieved with [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
 
 First clone the code via
 
